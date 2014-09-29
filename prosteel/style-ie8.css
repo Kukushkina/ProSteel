@@ -1,0 +1,36 @@
+.camera_thumbs_cont ul li{
+	display:none
+}
+.nav ul li a{
+	font-size:16px;
+}
+.service_body h2 a{
+	font-size: 16px;
+}
+.camera_prev, .camera_next, .camera_commands{
+	display:block;
+	background:white;
+}
+.categories h2{
+	font-size: 18px;
+	line-height: 20px;	
+}
+.categories h4{
+	font-size: 15px;	
+}
+.thumb img{
+	width:100px;
+}
+.head_category{
+	font-size: 18px;
+	padding:0;
+	line-height: 20px;
+}
+.category-date h4{
+	font-size: 14px;
+	padding:0;
+}
+.category_body{
+	margin-top:0px;
+	margin-bottom:20px;	
+}
